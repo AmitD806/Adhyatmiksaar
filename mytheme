@@ -1,0 +1,18 @@
+mytheme/
+│── style.css
+│── functions.php
+│── header.php
+│── footer.php
+│── index.php
+│── page-news.php
+│── page-education.php
+│── page-culture.php
+│── page-events.php
+│── single.php
+│── archive.php
+│── assets/
+│   ├── css/
+│   │   ├── custom-style.css
+│   ├── js/
+│   │   ├── scripts.js
+│   ├── images/
